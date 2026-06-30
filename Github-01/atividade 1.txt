@@ -1,4 +1,10 @@
 testes de software--turma 18
 
 *aprendendo e colocando em prática no github*
-o objetivo dessa atividade é utilizar as ferramentas do git junto com meu próprio conhecimento e "toque", utilizando também um 
+
+o objetivo dessa atividade é utilizar as ferramentas do git e github, e criar um local onde vou poder praticar e desenvolver tudo o que aprenderei durante o curso, fazendo uso também de ia para complementar meu conhecimento.
+
+
+
+
+
