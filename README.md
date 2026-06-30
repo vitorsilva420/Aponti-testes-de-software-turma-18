@@ -3,7 +3,7 @@
 Bem-vindo! 
 Este repositório reúne materiais utilizados na Formação em Testes de Software, 
 organizados em trilhas de aprendizagem. 
-## Objetivos - Construir um portfólio profissional --- 
+## Objetivos - Construir um portfólio profissional 
 # Trilhas 
 | Módulo | Conteúdo | 
 |---------|----------| 
