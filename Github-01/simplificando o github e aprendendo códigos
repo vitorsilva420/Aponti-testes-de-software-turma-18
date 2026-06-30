@@ -1,1 +1,29 @@
+ -comandos-
 
+Para utilização do git é necessário saber alguns comandos basicos na execuções de tarefas, e eles são;
+
+comando/ git init: ele serve para a inicialização de um prejeto.
+
+comando/ git clone URL: esse comando clona a url e permite copiar um projeta ja criado
+
+comando/ git add: permite adicionar funções como por exemplo o "README"
+
+comando/ git commit -m "mensagem": registra as alterações realizadas no projeto com uma descrição.
+
+comando/ git status: mostra o estado atual dos arquivos e das alterações no repositório.
+
+comando/ git push: envia as alterações locais para o repositório remoto.
+
+comando/ git pull: baixa e atualiza o repositório local com as alterações do repositório remoto.
+
+comando/ git branch: exibe ou cria novas branches (ramificações) do projeto.
+
+comando/ git checkout nome-da-branch: permite trocar para outra branch.
+
+comando/ git merge nome-da-branch: une as alterações de uma branch com outra.
+
+comando/ git log: exibe o histórico de commits realizados no projeto.
+
+comando/ git remote add origin URL: conecta o repositório local a um repositório remoto, como o GitHub.
+
+O Git e o GitHub se tornaram ferramentas essenciais no desenvolvimento de software moderno porque permitem organizar, acompanhar e compartilhar o trabalho de forma eficiente. O Git possibilita registrar cada alteração realizada em um projeto, oferecendo segurança para testar novas ideias, corrigir erros e recuperar versões anteriores quando necessário.
