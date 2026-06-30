@@ -55,4 +55,4 @@ Ao concluir este módulo você será capaz de:
  
 Criar um portfólio utilizando GitHub.
 
-usando o https://github.com/
+acessando pelo: https://github.com/
