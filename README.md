@@ -58,4 +58,5 @@ Criar um portfólio utilizando GitHub.
 acessando pelo: https://github.com/
 projeto: https://github.com/vitorsilva420/Aponti-testes-de-software-turma-18.git
 
+<img width="377" height="135" alt="image" src="https://github.com/user-attachments/assets/69fb6740-7e93-44b4-af03-962cc33a5f91" />
 
